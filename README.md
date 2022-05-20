@@ -2,7 +2,11 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Reactjs
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanpandey1407&theme=buefy_icons=true)
+
+![coder](https://user-images.githubusercontent.com/66896401/169585484-8cf9541f-997d-4fb5-8101-53c8fe310abf.gif)
+
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanpandey1407&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey1407&layout=compact)](https://github.com/amanpandey1407/github-readme-stats)
 
