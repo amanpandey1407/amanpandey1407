@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanpandey1407
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m Reactjs Developer
 
 
 ![coder](https://user-images.githubusercontent.com/66896401/169585484-8cf9541f-997d-4fb5-8101-53c8fe310abf.gif)
